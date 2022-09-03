@@ -13,3 +13,7 @@ Pada percobaan ini menambahkan package bernama english_words
 ## Add a stateful widget
 Pada percobaan ini menambahkan stateful widget
 ![Screenshoot startup_namer](images/03.png)
+
+## Create an infinite scrolling ListView
+Pada percobaan ini menambahkan listView widget. ListView widget digunakan untuk menampilkan randomwords secara list.
+![Screenshoot startup_namer](images/04.png)
