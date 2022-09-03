@@ -9,3 +9,7 @@ Pada percobaan ini membuat projek baru dengan nama startup_namer. Hasil dari per
 ## Use an external package
 Pada percobaan ini menambahkan package bernama english_words
 ![Screenshoot startup_namer](images/02.png)
+
+## Add a stateful widget
+Pada percobaan ini menambahkan stateful widget
+![Screenshoot startup_namer](images/03.png)
